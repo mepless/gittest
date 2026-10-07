@@ -1,0 +1,3 @@
+test4 text file edited by vim
+1 2 3 4
+a b c d
